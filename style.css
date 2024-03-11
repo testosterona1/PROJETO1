@@ -3,5 +3,6 @@
     --verde: #6FFF57;
     --branci: white;
     --botao-ativo: #3A375E;
-    --botao
+    --botao-inativo: rgba(58,55,94,0.5);
+    --texto-fundo: rgba(58,55,94,0.3);
 }
